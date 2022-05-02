@@ -57,7 +57,7 @@
 
     - name: Checkout Git repository
       git:
-        repo: https://github.com/EpitechMscProPromo2024/T-WEB-600-STG-6-1-ecommerce-michel.deghaud
+        repo: https://github.com/MDeghaud67/E-Commerce.git
         dest: "/var/www/project"
         force: yes
     
